@@ -1,0 +1,14 @@
+1 – Para que serve o TouchableOpacity?
+R: O TouchableOpacity é um componente do React Native que serve para criar elementos clicáveis, reduzindo a sua opacidade ao ser clicado.
+
+2 – Quais outras opções nós temos diferentes do TouchableOpacity?
+R: No React Native, existem outras alternativas ao TouchableOpacity como: Button, Pressable, TouchableHighlight e TouchableWithoutFeedback. Cada um deles pode ser utilizado em diferentes contextos.
+
+3 – O que são states? Exemplifique:
+R: States são valores utilizados para representar o estado de um componente, podendo se atualizar por meio de funções. Quando um valor é alterado em um state, o componente é renderizado automaticamente. Um exemplo de um state é em um formulário, onde ele é utilizado para armazenar as informações que o usuário digitar.
+
+4 – O que é um arrow function?
+R: Arrow functions são uma forma simplificada de declarar funções em JavaScript, permitindo escrever funções mais curtas e diretas.
+ 
+5 – Como separar o código de estilo, fazendo a componentização?
+R: É possível separar o código de estilo criando componentes para partes específicas da interface e organizando seus estilos em arquivos ou objetos próprios, melhorando a organização e reutilização do código.
